@@ -7,9 +7,9 @@ módulo son:
 -Testing. JUNIT
 -UML
 
-![Imagen del Instituto IES PABLO PICASSO]([https://myoctocat.com/assets/images/base-octocat.svg](https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png))
+![Imagen del Instituto IES PABLO PICASSO](https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
 
-En la página web del [IES Pablo Picasso]([https://pages.github.com/](https://moodle.iespablopicasso.es) podrás encontrar mas información.
+En la página web del [IES Pablo Picasso](https://moodle.iespablopicasso.es) podrás encontrar mas información.
 
 Siquieres contribuir al desarrollo de la web, puedes clonar el respositorio con el comando
 
