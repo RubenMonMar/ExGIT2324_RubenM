@@ -2,10 +2,10 @@
 En el repositorio  encontramos la web del módulo **Entorno de Desarrollo.** Los contenidos que se tratan en este
 módulo son:
 
--IDEs
--Control de versiones. GIT
--Testing. JUNIT
--UML
+- IDEs
+- Control de versiones. GIT
+- Testing. JUNIT
+- UML
 
 ![Imagen del Instituto IES PABLO PICASSO](https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
 
